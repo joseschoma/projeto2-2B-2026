@@ -12,4 +12,6 @@ img {
     height: 550px;
 }
 
-
+main {
+    display: inline;
+}
